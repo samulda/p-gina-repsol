@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans:wght@400;700 & display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1340px;
+    margin: auto;
+}
+
+nav {
+    font-size: 15px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+h2 {
+    font: bold 20px arial;
+}
+
+h3 {
+    font-size: 16px;
+    font-family: arial;
+    color:orange;
+}
+
+h4 {
+    font-size: 14px;
+    font-family: Arial;
+}
+
+.agrupar {
+    text-align: right;
+}
+
+footer {
+    background: green;
+    margin: auto;
+    padding: 10px;
+    font: bold 14px verdana;  
+}
+
+footer {
+    display: block;
+}
+
+.contenido-textos {
+    margin: 0cm;
+    padding: 1%;
+}
+
+.columnas {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 2% 0px;
+    text-align:start;
+}
+
+.portafolio {
+    float: left;
+}
+
+.content-foo {
+    display: inline-block;
+    margin: 40px;
+}
+.contenido {
+    text-align: center;
+}
+
+.Pie {
+    display: block;
+    text-align: right;
+    margin: auto;
+}
+
+.Pies {
+    display: block;
+    float: left;
+}
+     
+.Pieso {
+    display: block;
+    text-align: center;
+}
+
+.Piesa {
+    display: block;
+    text-align: right;
+    float: right;
+}
+
+time {
+    color: gray;
+}
+
+.red-social{
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
